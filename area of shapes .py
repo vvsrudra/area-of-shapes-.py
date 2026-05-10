@@ -1,0 +1,5 @@
+l = int(input("length"))
+b = int(input("bredth"))
+r = int(input("radius"))
+print("area of circle",(3.14*r*r))
+print("are of rectangle ",(l*b))
